@@ -51,3 +51,5 @@ Download the project files.
 Open the project folder and double-click on Period Tracker.html.
 
 Alternatively, use a local server (e.g., Live Server in VS Code).
+
+click here to view the live website: http://127.0.0.1:5500/Period%20Tracker.html

@@ -1,0 +1,19 @@
+/* styles.css */
+
+body {
+    background-image: url('./images/subtle_background.jpeg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    color: #333;
+  }
+  
+  footer {
+    background-color: #ffe4e1;
+    color: #4f4f4f;
+    font-size: 0.9rem;
+  }
+  
